@@ -1350,7 +1350,7 @@ python-versions = "*"
 
 [[package]]
 name = "types-typed-ast"
-version = "1.5.1"
+version = "1.5.2"
 description = "Typing stubs for typed-ast"
 category = "dev"
 optional = false
@@ -1518,7 +1518,7 @@ sanic = ["sanic"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "e17438a503068517c6c4494bae3cc259d419beaa8ad61cd18722262c62330164"
+content-hash = "f09b95fd510bc19753af53fa08ab533bcc0117e34d8000f464ede5b3d08d5bb5"
 
 [metadata.files]
 aiofiles = [
@@ -2531,8 +2531,8 @@ types-toml = [
     {file = "types_toml-0.10.2-py3-none-any.whl", hash = "sha256:8a72568466fd041c1b7481aa2bd8d81d4585017131d6b268de13d876da0827d7"},
 ]
 types-typed-ast = [
-    {file = "types-typed-ast-1.5.1.tar.gz", hash = "sha256:510f3beaa95492b3544d67e81581afa2903c764b70889ffcdb286e6c6267d297"},
-    {file = "types_typed_ast-1.5.1-py3-none-any.whl", hash = "sha256:5c8ef528821fb2a96d750deed100b25d7fdb055610747ee5352120887d915f8c"},
+    {file = "types-typed-ast-1.5.2.tar.gz", hash = "sha256:6d8fd2ea90836cb43111ac8aae7cd864e098593c93ecceba90fe46d6b7b0c73e"},
+    {file = "types_typed_ast-1.5.2-py3-none-any.whl", hash = "sha256:8f459097ad11d2efc0c7e31f3adce45dc94e1c8950d55e1fe502aeff4b528d9a"},
 ]
 types-ujson = [
     {file = "types-ujson-4.2.0.tar.gz", hash = "sha256:b97ab027754c0788e7083eaa4a57d5837fb248d0e59879e80f26fc1ad6e58eea"},
